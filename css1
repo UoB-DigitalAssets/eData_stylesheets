@@ -1,0 +1,50 @@
+.rectangle {
+	height: 172px;
+	width: 1443px;
+	background-color: #9B6AA4;
+}
+
+.uob-crest-logo-black-1024-x-51 {
+	height: 512px;
+	width: 1024px;
+}
+
+.line {
+	box-sizing: border-box;
+	height: 64.05px;
+	width: 2px;
+	border: 2px solid #FFFFFF;
+}
+.group {
+	height: 28.1px;
+	width: 110.81px;
+}
+.fill-10 {
+	height: 26.74px;
+	width: 26.09px;
+}
+.fill-8 {
+	height: 27.38px;
+	width: 26.85px;
+}
+.fill-6 {
+	height: 26.74px;
+	width: 11.57px;
+}
+.fill-4 {
+	height: 26.75px;
+	width: 22.79px;
+}
+.fill-2 {
+	height: 27.38px;
+	width: 26.95px;
+}
+
+.e-data {
+	height: 22px;
+	width: 148.83px;
+	color: #FFFFFF;
+	font-family: Arial;
+	font-size: 20px;
+	line-height: 23px;
+}
